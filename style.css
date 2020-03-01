@@ -32,6 +32,41 @@ nav a:hover {
 	color: #C78C19;
 	text-decoration: underline;
 }
+/* css da pagina inicial */
+.banner{
+	width: 100%;
+}
+
+.titulo-principal{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.principal p{
+	margin: 0 0 1em;
+}
+
+.principal strong{
+	font-weight: bold;
+}
+
+.principal em{
+	font-style: italic;
+}
+
+.imagembeneficios{
+	width: 60%;
+}
+
+.utensilios{
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+/* css da pagina inicial */
 
 .produtos {
 	width: 940px;
