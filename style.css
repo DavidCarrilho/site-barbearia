@@ -73,6 +73,13 @@ nav a:hover {
 
 .imagembeneficios{
 	width: 60%;
+	opacity: 1;
+	transition: 400ms;
+	box-shadow: 5px 10px 30px #000000;
+}
+
+.imagembeneficios:hover{
+	opacity: 0.5
 }
 
 .utensilios{
@@ -125,10 +132,6 @@ nav a:hover {
 
 .itens:first-child{
 	font-weight: bold;
-}
-
-.imagembeneficios{
-	width: 60%;
 }
 
 /* css da pagina inicial */
